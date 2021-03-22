@@ -1,3 +1,9 @@
+The dataset used for this project is available on the below given link
+
+https://www.kaggle.com/blastchar/telco-customer-churn
+
+
+
 #Importing and Exploring the raw data set
 
 #To clear all previous work from the R environment
